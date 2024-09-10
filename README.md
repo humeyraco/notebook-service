@@ -6,7 +6,6 @@
 - [Getting Started](#getting-started)
     - [How to Run](#how-to-run)
 - [About The Service](#about-the-service)
-    - [Database](#database)
 
 ## Introduction
 
