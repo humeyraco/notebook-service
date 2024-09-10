@@ -116,14 +116,3 @@ docker-compose up
 - Endpoint: POST /api/v1/notes/user-notes
 - Description: Lists notes of the authenticated user.
 
-### Database
-
-The application uses an H2 in-memory database. You can access the database at the following URL when the application is running:
-
-```
-http://localhost:8080/h2-console
-```
-
-- Username: sa
-- Password: <no password>
-- JDBC URL: jdbc:h2:mem:testdb
